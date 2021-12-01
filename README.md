@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @james-pettit
 - 👀 I’m interested in sailing, electronics, and making things
-- 🌱 I’m currently learning about web development
 - 📫 Reach me at james.pettit@gmail.com
 
 <!---
